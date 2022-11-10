@@ -1,2 +1,7 @@
 # Foundations-of-Data-Science
-Class note and Coding exercises for The UC Berkeley Foundations of Data Science course, Summer 2021 
+
+Technest 2: Foundations of Data Science (Python)
+UC Berkeley's Data 8 course, Spring 2021
+Final Grades: A
+
+All code in this course uses Python
